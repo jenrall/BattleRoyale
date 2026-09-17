@@ -1,0 +1,10 @@
+name: BattleRoyaleCore
+version: 1.0.0
+main: com.jenrall.battleroyale.BattleRoyaleCore
+api-version: '1.21'
+description: A complete Battle Royale plugin.
+author: jenrall
+commands:
+  br:
+    description: Main command for Battle Royale.
+    usage: /br help
