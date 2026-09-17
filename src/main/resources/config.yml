@@ -1,0 +1,11 @@
+lobby:
+  world: "lobby"
+  spawn:
+    x: 0.5
+    y: 64.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+  min-players: 10
+  max-players: 100
+  countdown: 60
